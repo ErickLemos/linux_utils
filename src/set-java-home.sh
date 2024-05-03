@@ -1,4 +1,5 @@
 #!/bin/bash
+# ex: ./set-java-home.sh /dir/dir/jdk
 
 newJavaHome=$1
 
