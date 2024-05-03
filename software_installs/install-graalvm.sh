@@ -17,7 +17,6 @@ rm -r graal*
 sudo tee -a ~/.bashrc <<-EOF
 
 # LINUX UTILS - JVM
-
 export JAVA_HOME=$HOME/linux_utils/jdks/graalvm_21
 export PATH=\$JAVA_HOME/bin:\$PATH
 
