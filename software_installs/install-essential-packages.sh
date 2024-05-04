@@ -7,3 +7,4 @@ sudo apt-get install wget
 sudo apt-get install git
 sudo apt-get install ffmpeg
 sudo apt-get install libfuse2
+sudo apt-get install synaptic
