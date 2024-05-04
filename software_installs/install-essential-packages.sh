@@ -15,5 +15,5 @@ sudo apt-get install nvidia-cudnn -y
 
 ### utils midia softwares ###
 sudo apt-get install gimp -y
-sudo apt-get install vlc -y
+sudo apt-get install totem -y
 
