@@ -1,6 +1,9 @@
 # Linux Utils
 - OS: Ubuntu 24 LTS
 
+### base
+- **configure-gnome.sh**: configurações basicas para melhor experiencia no gnome.
+
 ### fixes
 - **fix-jetbrains-ides-shutdown.sh**: erro de desligamento na abertura de um projeto.
 
