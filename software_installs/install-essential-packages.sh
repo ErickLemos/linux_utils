@@ -9,3 +9,4 @@ sudo apt-get install ffmpeg -y
 sudo apt-get install libfuse2 -y
 sudo apt-get install synaptic -y
 sudo apt-get install zlib1g-dev -y
+sudo apt-get install libssl-dev -y
