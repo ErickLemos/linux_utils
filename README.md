@@ -19,3 +19,6 @@
 - **install-flathub-base.sh**: instala a base para o uso do flathub.
 - **install-graalvm**: instala graalvm como jvm principal no sistema.
 - **install-rust**: instala rust com base no script fornecido oficionalmente.
+
+### utils
+- **nvidia-monitor.sh**: monitora o status da gpu - com base no nvidia-smi
