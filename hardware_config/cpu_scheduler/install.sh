@@ -10,5 +10,5 @@ sudo systemctl daemon-reload
 sudo systemctl enable perf-prof.service
 sudo systemctl start perf-prof.service
 
-cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
 
