@@ -21,4 +21,5 @@
 - **install-rust**: instala rust com base no script fornecido oficionalmente.
 
 ### utils
+- **download-m3u8.sh**: realiza download de arquivos m3u8/streamming
 - **nvidia-monitor.sh**: monitora o status da gpu - com base no nvidia-smi
