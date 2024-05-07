@@ -15,7 +15,6 @@
 
 ### software installs
 - **install-essential-packages.sh**: instala pacotes essenciais para um ambiente de desenvolvimento.
-- **install-firecracker.sh**: instala e compila a jvm firecracker.
 - **install-flathub-base.sh**: instala a base para o uso do flathub.
 - **install-graalvm**: instala graalvm como jvm principal no sistema.
 - **install-rust**: instala rust com base no script fornecido oficionalmente.

@@ -1,2 +1,3 @@
 .idea
 *.iml
+hardware_config/compile_linux_kernel/linux*

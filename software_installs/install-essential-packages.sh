@@ -16,5 +16,21 @@ sudo apt-get install nvidia-cudnn -y
 ### utils midia softwares ###
 sudo apt-get install gimp -y
 sudo apt-get install totem -y
+sudo apt-get install eog -y
 sudo apt-get install kdenlive -y
 
+### dev tools ###
+sudo apt-get install gnome-boxes -y
+sudo apt-get install gnome-connections -y
+
+### para compilação do depedencias e kernel ###
+sudo apt-get install \
+    fakeroot \
+    build-essential \
+    ncurses-dev \
+    xz-utils \
+    libssl-dev \
+    bc \
+    flex \
+    libelf-dev \
+    bison -y
