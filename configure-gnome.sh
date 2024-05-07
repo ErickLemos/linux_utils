@@ -1,5 +1,5 @@
 #!/bin/bash
-# requisites: sudo apt-get install dbus-x11
+# configura gnome com base em preferencias pessoais
 
 gsettings set org.gnome.desktop.peripherals.keyboard delay 250
 gsettings set org.gnome.desktop.interface enable-hot-corners true
