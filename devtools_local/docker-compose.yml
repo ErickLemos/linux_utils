@@ -1,1 +1,5 @@
-ver
+version: "3.8"
+name: "local-devtools"
+
+services:
+  sonarqube:
