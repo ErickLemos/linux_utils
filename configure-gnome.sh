@@ -4,7 +4,7 @@
 gsettings set org.gnome.desktop.peripherals.keyboard delay 250
 gsettings set org.gnome.desktop.interface enable-hot-corners true
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-sudo gsettings set org.gnome.desktop.peripherals.mouse accel-profile flat
+gsettings set org.gnome.desktop.peripherals.mouse accel-profile flat
 
 # background
 gsettings set org.gnome.desktop.background picture-uri "file:///usr/share/backgrounds/Little_numbat_boy_by_azskalt.png"

@@ -20,9 +20,11 @@ sudo apt-get install eog -y
 sudo apt-get install gimp -y
 sudo apt-get install kdenlive -y
 
-### dev tools ###
+### gnome softwares ###
 sudo apt-get install gnome-boxes -y
 sudo apt-get install gnome-connections -y
+sudo apt-get install gnome-shell-extension-manager -y
+sudo apt-get install dconf-editor -y
 
 ### para compilação do depedencias e kernel ###
 sudo apt-get install \
