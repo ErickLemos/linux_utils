@@ -21,10 +21,13 @@ sudo apt-get install gimp -y
 sudo apt-get install kdenlive -y
 
 ### gnome softwares ###
-sudo apt-get install gnome-boxes -y
 sudo apt-get install gnome-connections -y
 sudo apt-get install gnome-shell-extension-manager -y
 sudo apt-get install dconf-editor -y
+
+### virtual box ###
+sudo apt-get install virtualbox -y
+
 
 ### para compilação do depedencias e kernel ###
 sudo apt-get install \
