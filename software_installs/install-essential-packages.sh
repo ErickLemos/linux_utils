@@ -27,16 +27,3 @@ sudo apt-get install dconf-editor -y
 
 ### virtual box ###
 sudo apt-get install virtualbox -y
-
-
-### para compilação do depedencias e kernel ###
-sudo apt-get install \
-    fakeroot \
-    build-essential \
-    ncurses-dev \
-    xz-utils \
-    libssl-dev \
-    bc \
-    flex \
-    libelf-dev \
-    bison -y
