@@ -26,3 +26,8 @@ sudo apt-get install dconf-editor -y
 
 ### virtual box ###
 sudo apt-get install virtualbox -y
+
+### google chrome ###
+googleChromeFile=google-chrome-stable_current_amd64.deb
+wget https://dl.google.com/linux/direct/$googleChromeFile
+sudo dpkg -i $googleChromeFile
