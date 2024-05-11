@@ -9,8 +9,8 @@ chmod +x $file
 sudo tee -a ~/.bashrc <<-EOF
 
 # LINUX UTILS - INTEL ONEAPI
-export INTEL_API=$HOME/intel/oneapi/compiler/latest
-export PATH=\$JAVA_HOME/bin:\$PATH
+export INTEL_API_COMPILER=$HOME/intel/oneapi/compiler/latest
+export PATH=\$INTEL_API_COMPILER/bin:\$PATH
 
 EOF
 
