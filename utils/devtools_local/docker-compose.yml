@@ -3,3 +3,4 @@ name: "local-devtools"
 
 services:
   sonarqube:
+    image: sonarqube:lts
