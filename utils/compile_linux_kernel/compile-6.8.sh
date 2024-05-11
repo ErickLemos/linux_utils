@@ -18,8 +18,8 @@ tar -xf $file
 rm $file
 
 
-cd ./linux*
-cp /boot/config-$(uname -r) .config
+cd ./linux-6.8.9 || exit
+cp /boot/config-"$(uname -r)" .config
 
 
 scripts/config --disable SYSTEM_REVOCATION_KEYS
