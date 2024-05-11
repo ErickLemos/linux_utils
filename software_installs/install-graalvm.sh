@@ -21,5 +21,3 @@ export JAVA_HOME=$HOME/linux_utils/jdks/graalvm_21
 export PATH=\$JAVA_HOME/bin:\$PATH
 
 EOF
-
-source ~/.bashrc
