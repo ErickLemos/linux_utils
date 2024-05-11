@@ -27,6 +27,7 @@ make menuconfig
 fakeroot make -j"$(nproc)"
 echo $?
 
-sudo make modules_install -j"$(nproc)"
-sudo make install -j"$(nproc)"
+# continue com o processo executando manualmente:
+# sudo make modules_install -j"$(nproc)"
+# sudo make install -j"$(nproc)"
 
